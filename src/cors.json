@@ -1,0 +1,10 @@
+[
+  {
+    "origin": [
+      "http://localhost:3000",
+      "https://linkedin-clone-eblbrifbc-peter-heris-projects.vercel.app/"
+    ],
+    "method": ["GET", "POST", "PUT", "PATCH", "DELETE", "HEAD"],
+    "maxAgeSeconds": 3600
+  }
+]
